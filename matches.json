@@ -6,12 +6,12 @@
       "imagem": "TODO"
     },
     "mandante": {
-      "name": "Inglaterra",
+      "nome": "Inglaterra",
       "forca": "5",
       "imagem": "TODO"
     },
     "visitante": {
-      "name": "Espanha",
+      "nome": "Espanha",
       "forca": "5",
       "imagem": "TODO"
     }
