@@ -1,1 +1,19 @@
-
+[
+  {
+    "descrição": "Elimininatórias Copa 2022",
+    "local":{
+      "nome" "Wembley Stadium", 
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "name": "Inglaterra",
+      "forca": "5",
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "name": "Espanha",
+      "forca": "5",
+      "imagem": "TODO"
+    }
+  }
+]  
