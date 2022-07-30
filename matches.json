@@ -2,18 +2,18 @@
   {
     "descrição": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Wembley Stadium", 
+      "nome": "Santiago Bernabéu", 
       "imagem": "TODO"
     },
     "mandante": {
-      "nome": "Inglaterra",
-      "forca": "5",
-      "imagem": "TODO"
-    },
-    "visitante": {
       "nome": "Espanha",
       "forca": "5",
-      "imagem": "TODO"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/es.png"
+    },
+    "visitante": {
+      "nome": "Portugal",
+      "forca": "5",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pt.png"
     }
   }
 ]  
